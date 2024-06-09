@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>mobile_greenhouses</name>
+    </assembly>
+    <members>
+        <member name="T:mobile_greenhouses.Resources.Languages.AppResources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.AccountUpdatedSuccessMessage">
+            <summary>
+              Looks up a localized string similar to Updated successfully.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.AccountUpdateErrorMessage">
+            <summary>
+              Looks up a localized string similar to Update failed.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.EditButtonText">
+            <summary>
+              Looks up a localized string similar to Edit.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.EditUserTitle">
+            <summary>
+              Looks up a localized string similar to Edit User.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.EmailLabel">
+            <summary>
+              Looks up a localized string similar to Email.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.EmailLabelTitle">
+            <summary>
+              Looks up a localized string similar to Email.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.EmailPlaceholder">
+            <summary>
+              Looks up a localized string similar to Email.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.ErrorTitle">
+            <summary>
+              Looks up a localized string similar to Error.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.FullNameLabel">
+            <summary>
+              Looks up a localized string similar to Full name.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.FullNameLabelTitle">
+            <summary>
+              Looks up a localized string similar to Full name.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.FullNamePlaceholder">
+            <summary>
+              Looks up a localized string similar to Full name.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.GoBackButtonText">
+            <summary>
+              Looks up a localized string similar to Back.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.GreenhouseID">
+            <summary>
+              Looks up a localized string similar to Greenhouse ID.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.GreenhouseName">
+            <summary>
+              Looks up a localized string similar to Name.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.GreenhousesTitle">
+            <summary>
+              Looks up a localized string similar to Greenhouses.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.GreenhouseTitle">
+            <summary>
+              Looks up a localized string similar to Greenhouses.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.LanguageSelectionTitle">
+            <summary>
+              Looks up a localized string similar to Language.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.LoginButtonText">
+            <summary>
+              Looks up a localized string similar to Login.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.LoginPlaceholder">
+            <summary>
+              Looks up a localized string similar to Login.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.LogoutButtonText">
+            <summary>
+              Looks up a localized string similar to Logout.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.MainDescriptionText">
+            <summary>
+              Looks up a localized string similar to Hello, dear User!.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.MainTitleText">
+            <summary>
+              Looks up a localized string similar to Greenhouses.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.NoCurrentBookingMessage">
+            <summary>
+              Looks up a localized string similar to No Current Booking.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.NotificationID">
+            <summary>
+              Looks up a localized string similar to Notification ID.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.NotificationMessage">
+            <summary>
+              Looks up a localized string similar to Message.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.NotificationsTitle">
+            <summary>
+              Looks up a localized string similar to Notifications.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.NotificationTitleLable">
+            <summary>
+              Looks up a localized string similar to Title.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.PasswordPlaceholder">
+            <summary>
+              Looks up a localized string similar to Password.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.RegisterButtonText">
+            <summary>
+              Looks up a localized string similar to Registration.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.SaveChangesButtonText">
+            <summary>
+              Looks up a localized string similar to Save.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.SensorID">
+            <summary>
+              Looks up a localized string similar to Sensor ID.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.SensorIsActive">
+            <summary>
+              Looks up a localized string similar to Is Active.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.SensorMaxValue">
+            <summary>
+              Looks up a localized string similar to Max Value.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.SensorMinValue">
+            <summary>
+              Looks up a localized string similar to Min Value.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.SensorsTitle">
+            <summary>
+              Looks up a localized string similar to Sensors.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.SensorTitle">
+            <summary>
+              Looks up a localized string similar to Sensors.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.SensorType">
+            <summary>
+              Looks up a localized string similar to Type.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.SuccessTitle">
+            <summary>
+              Looks up a localized string similar to Success.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.UserAccountTab">
+            <summary>
+              Looks up a localized string similar to User Account.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.UserAccountTitle">
+            <summary>
+              Looks up a localized string similar to User Account.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.UserNameLabelTitle">
+            <summary>
+              Looks up a localized string similar to User name.
+            </summary>
+        </member>
+        <member name="P:mobile_greenhouses.Resources.Languages.AppResources.UserNamePlaceholder">
+            <summary>
+              Looks up a localized string similar to User name.
+            </summary>
+        </member>
+    </members>
+</doc>
